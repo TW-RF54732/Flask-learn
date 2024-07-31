@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "notebook.codeActionsOnSave": {},
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
